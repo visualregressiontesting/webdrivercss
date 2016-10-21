@@ -1,6 +1,6 @@
 {
-  "name": "webdrivercss",
-  "version": "2.0.0beta-rc1",
+  "name": "webdrivercss-custom-v4-compatible",
+  "version": "2.0.0beta-rc1.1",
   "description": "Regression testing tool for WebdriverJS",
   "author": "Christian Bromann <mail@christian-bromann.com>",
   "license": "MIT",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/webdriverio/webdrivercss.git"
+    "url": "https://github.com/DenisKudelin/webdrivercss.git"
   },
   "dependencies": {
     "async": "^0.9.0",
