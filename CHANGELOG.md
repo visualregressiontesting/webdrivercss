@@ -1,5 +1,10 @@
 ## Release History
 
+## v2.0.3 (2016-11-30)
+
+* fix path to generateUUID
+* add build directory
+
 ## v2.0.0 (2016-11-30)
 
 * Merge in master and beta-rc1 from DenisKudelin fork
