@@ -28,9 +28,11 @@ var async = require('async'),
     fs = require('fs'),
     rimraf = require('rimraf'),
     mkdirp = require("mkdirp"),
-    generateUUID = require('./generateUUID.js'),
+    _require = require('./generateUUID.js'),
+    generateUUID = _require.generateUUID,
     path = require('path'),
     q = require('q');
+
 
 module.exports = function documentScreenshot(fileName) {
     var gm = this.gm();

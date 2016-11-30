@@ -8,7 +8,8 @@ var fs = require('fs-extra'),
     workflow = require('./workflow.js'),
     viewportScreenshot = require('./viewportScreenshot.js'),
     documentScreenshot = require('./documentScreenshot.js'),
-    generateUUID = require('./generateUUID.js'),
+    _require = require('./generateUUID.js'),
+    generateUUID = _require.generateUUID,
     syncImages = require('./syncImages');
 
 /**

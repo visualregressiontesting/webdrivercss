@@ -10,8 +10,9 @@ module.exports = function (grunt) {
             dist: {
                 files: [{
                     expand: true,
-                    cwd: './lib',
-                    src: ['*.js'],
+                    flatten: true,
+                    cwd: './lib/',
+                    src: ['**/*.js'],
                     dest: 'build',
                     ext: '.js'
                 }]
@@ -54,8 +55,9 @@ module.exports = function (grunt) {
         }
     })
 
-    require('load-grunt-tasks')(grunt)
-    grunt.loadTasks('build')
+    require('load-grunt-tasks')(grunt, {pattern: 'grunt-*'})
+
+    // grunt.loadTasks('build')
     grunt.registerTask('default', ['build'])
     grunt.registerTask('build', 'Build grunt-webdriver', function () {
         grunt.task.run([
