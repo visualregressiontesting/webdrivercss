@@ -1,4 +1,7 @@
-WebdriverCSS [![Version](http://img.shields.io/badge/version-v1.1.10-brightgreen.svg)](https://www.npmjs.org/package/webdrivercss) [![Build Status](https://travis-ci.org/webdriverio/webdrivercss.png?branch=master)](https://travis-ci.org/webdriverio/webdrivercss) [![Coverage Status](https://coveralls.io/repos/webdriverio/webdrivercss/badge.png?branch=master)](https://coveralls.io/r/webdriverio/webdrivercss?branch=master) [![Join the chat at https://gitter.im/webdriverio/webdrivercss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/webdriverio/webdrivercss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## Heads up! This is a stop-gap solution while the future of WebdriverCSS and wdio-screenshot are determined.
+
+WebdriverCSS [![Version](http://img.shields.io/badge/version-v2.0.0-brightgreen.svg)](https://www.npmjs.org/package/webdrivercss) [![Build Status](https://travis-ci.org/webdriverio/webdrivercss.png?branch=master)](https://travis-ci.org/webdriverio/webdrivercss) [![Coverage Status](https://coveralls.io/repos/webdriverio/webdrivercss/badge.png?branch=master)](https://coveralls.io/r/webdriverio/webdrivercss?branch=master) [![Join the chat at https://gitter.im/webdriverio/webdrivercss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/webdriverio/webdrivercss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+============
 
 __CSS regression testing in WebdriverIO__. This plugin is an automatic visual regression-testing
 tool for [WebdriverIO](http://webdriver.io). It was inspired by [James Cryer's](https://github.com/jamescryer)
@@ -73,7 +76,7 @@ Please make sure you install the right binaries desired for your system (32bit v
 After these dependencies are installed you can install WebdriverCSS via NPM as usual:
 
 ```sh
-$ npm install webdrivercss
+$ npm install visualregressiontesting/webdrivercss
 $ npm install webdriverio # if not already installed
 ```
 

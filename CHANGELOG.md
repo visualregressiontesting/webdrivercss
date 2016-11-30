@@ -1,5 +1,9 @@
 ## Release History
 
+## v2.0.0 (2016-11-30)
+
+* Merge in master and beta-rc1 from DenisKudelin fork
+
 ## v1.1.10 (2015-12-19)
 * Adjust scrolling to better support sticky headers (#131)
 * Add option to tweak node-resemble-js image comparison (#121)
