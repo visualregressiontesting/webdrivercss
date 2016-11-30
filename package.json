@@ -69,5 +69,31 @@
     "css",
     "responsive",
     "design"
+  ],
+  "contributors": [
+    "Christian Bromann <github@christian-bromann.com>",
+    "Kevin Lamping <klamping@gmail.com>",
+    "Chris Ruppel <chris.ruppel@gmail.com>",
+    "Denis Kudelin <v-dekude@microsoft.com>",
+    "Daniel Puterman <daniel.puterman@applitools.com>",
+    "Benjamin Urban <benjamin.urban@sueddeutsche.de>",
+    "Peter Banka <peter.banka@cyaninc.com>",
+    "Chris Rebert <github@rebertia.com>",
+    "Stefan Ayala <stefan@ifixit.com>",
+    "Jakub Jurových <jakub.jurovych@gmail.com>",
+    "Amitai Burstein <amitai@gizra.com>",
+    "Adrian Olek <adrianolek@gmail.com>",
+    "Ans <anselmbradford@users.noreply.github.com>",
+    "Arve Seljebu <arve.seljebu@gmail.com>",
+    "Dean Brettle <dean@brettle.com>",
+    "Eli White <github@eli-white.com>",
+    "unknown <phil@Anthony-PC.Appius.local>",
+    "Ilya Manyahin <ilya@gizra.com>",
+    "Patricia MacPherson <pmacpherson@klick.com>",
+    "Bogdan Onikiienko <onikiienko@gmail.com>",
+    "Ben Plessinger <plessbd@users.noreply.github.com>",
+    "Stephen Roberts <stephenroberts@gmail.com>",
+    "Ben Plessinger <bpless@buffalo.edu>",
+    "James D. Wilson <james@jameswilson.name>"
   ]
 }
